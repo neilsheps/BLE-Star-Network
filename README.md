@@ -1,0 +1,2 @@
+# BLE-Star-Network
+(WIP) A library that allows Adafruit nrf51 (e.g. Feather Express M0 BLE) and nRF52 (e.g. Feather Express 52832 or 52840) devices to create a BLE star network using UART comms.  The library allows self configuration and (almost) guaranteed delivery of over 3000 byte messages.  No attempt has been made to optimize for battery life!  This was designed as a wireless replacement for a canbus network in a vehicle, with fairly large, regular data sends, and mesh wasn't going to work 
