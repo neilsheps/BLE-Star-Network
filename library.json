@@ -1,0 +1,16 @@
+"name": "BleStar",
+"version": "1.0.0",
+"license": "GPL-3.0-only"
+"description": "A library that allows Adafruit nrf51 (e.g. Feather Express M0 BLE) and nRF52 (e.g. Feather Express 52832 or 52840) devices to create a BLE star network using UART comms.  The library allows self configuration and (almost) guaranteed delivery of over 3000 byte messages"
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/neilsheps/BLE-Star-Network.git"
+}
+
+"authors":
+{
+    "name": "Neil Shepherd",
+    "email": "neilsheps_at@gmail.com",
+    "url": "http://www.blackskyrobotics.com"
+}
